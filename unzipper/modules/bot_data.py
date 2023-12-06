@@ -71,7 +71,7 @@ Don't go AFK next time 😉
     BANNED = """
 **Sorry you're banned 💀**
 
-Report this at @EDM115_chat if you think this is a mistake, I may unban you
+Report this at @Mahsoom_Bot if you think this is a mistake, I may unban you
     """
 
     NEW_USER_BAD = """
@@ -102,7 +102,7 @@ This may take a while, go grab a coffee ☕️
 {}
 {}
 
-**Powered by @EDM115bots**
+**Powered by @Call_me_futurepilot**
     """
 
     PROCESSING = "**Processing…**"
@@ -123,7 +123,7 @@ This may take a while, go grab a coffee ☕️
 
     LOG_CHECKED = "Log channel alright"
 
-    BOT_RUNNING = "Bot is running now ! Join @EDM115bots"
+    BOT_RUNNING = "Bot is running now ! Join @Call_me_futurepilot"
 
     WRONG_LOG = """
 Error : the provided **LOGS_CHANNEL** (`{}`) is incorrect
@@ -159,7 +159,7 @@ Select the extraction mode for that merged file 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted by @Call_me_futurepilot 🥰
     """
 
     URL_UPLOAD = """
@@ -175,7 +175,7 @@ An error happened for `{}` 😕
 **Error type :** `{}`
 **Error message :** `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @Mahsoom_Bot if you think this is a serious error
     """
 
     REPORT_TEXT = """
@@ -208,7 +208,7 @@ have been saved from the URL
 
 **⚠ IN ALL CASES ⚠**, please send **/clean**, else you couldn’t send any other task 🙂🔫 (may be fixed in the future)
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @Mahsoom_Bot if you think this is a serious error
     """
 
     HOW_MANY_UPLOADED = "`{}` files were extracted from that archive"
@@ -251,7 +251,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @Call_me_futurepilot**
 
 **/donate** if you can 🥺
     """
@@ -274,24 +274,24 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 
 **• Got an error ?**
-    Visit edm115.eu.org/unzip#help
+    Visit @Call_me_futurepilot
 
 
 **• I wanna have help 🥺**
 
-    PM me at **@EDM115** or join the chat **@EDM115_chat**
+    PM me at **@Mahsoom_Bot** or join the chat **@Call_me_futurepilot**
     """
 
     ABOUT_TXT = """
-**About Unarchiver bot [v6.3.2]**
+**About MAH Unarchiver Bot**
 
 • **Language :** [Python 3.11.5](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.106](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Updates :** [MAHSOOM](https://t.me/Call_me_futurepilot)
+• **Developer :** [MAHSOOM](https://t.me/Mahsoommjm)
 
-**[Rate me ⭐](https://t.me/BotsArchive/2705)**
-Made with ❤️ by **@EDM115bots**
+**[Rate me ⭐](https://t.me/Call_me_futurepilot)**
+Made with ❤️ by **@Call_me_futurepilot**
     """
 
     DONATE_TEXT = """
@@ -303,11 +303,8 @@ So if you can, donate :)
 It helps out a ton, covers the costs (hosting, updating, … 👨‍💻)
 
 --How ?--
-• **[Paypal](https://www.paypal.me/8EDM115)**
-• **[GitHub Sponsors](https://github.com/sponsors/EDM115)**
-• **[Directly in Telegram](https://t.me/EDM115bots/544)**
-• **[BuyMeACoffee](https://www.buymeacoffee.com/edm115)**
-• **[Send cryptos (not recommended)](https://edm115.shadd.eu.org/)**
+• **[Directly in Telegram](https://t.me/Mahsoommjm)**
+• **[BuyMeACoffee](https://www.buymeacoffee.com/Mahsoom)**
 
 Thanks for your contribution 😊
 
@@ -323,7 +320,7 @@ Here's how : Become a VIP user and benefit from extra perks !
 - No max tasks limit
 - No AFK timeout
 - Get a better support
-- Upload files up to 4Gb
+- Upload files up to 4GB
 - Early access to new features
 - Access a second bot exclusive to VIPs __(subject to conditions)__
 - And more…
@@ -335,13 +332,11 @@ Here's how : Become a VIP user and benefit from extra perks !
 **How to become a VIP ?**
 1) Send **/pay** to the bot
 2) Choose your subscription
-3) Send a screenshot of your payment to **@EDM115**
+3) Send a screenshot of your payment to **@Mahsoommjm**
 4) Enjoy your VIP perks !
 
 **What happens when my subscription ends ?**
-If you choosed GitHub Sponsors, Telegram Donate or BuyMeACoffee, you will be automatically renewed until you cancel it
-If you choosed PayPal, you will have to redo the 4 above steps
-You will be notified few days before you subscription ends so you can check if you want to renew it or not
+If you choosed GitHub Telegram Donate or BuyMeACoffee, you will be automatically renewed until you cancel it
 
 **I wanna cancel my subscription**
 Just send **/stoppay** and follow the instructions according to the platform you selected
@@ -360,7 +355,7 @@ Use this command as a reply to a messsage, where you have the following (ONE PER
 The user ID (int)
 When the subscription starts (in %Y-%m-%dT%H:%M:%SZ format)
 When the subscription ends (same)
-Which platform had been used [paypal, telegram, sponsor, bmac]
+Which platform had been used [telegram, bmac]
 At which frequency the user is billed [monthly, yearly]
 Is the user a early supporter (can be obtained only the first 3 months) [True, False]
 Is the user also a donator [True, False]
@@ -473,7 +468,7 @@ Do you really want to delete your thumbnail ?
 
 `{}`
 
-Please report this at @EDM115_chat if you think this is a serious error
+Please report this at @Mahsoom_Bot if you think this is a serious error
     """
 
     CANCELLED_TXT = "**{} ✅**"
@@ -524,12 +519,12 @@ User ID : {}
     NOT_AN_ARCHIVE = """
 That's not an archive 💀
 
-**Try to @transload it**
+**Try to transload it**
     """
 
     DEF_NOT_AN_ARCHIVE = """
 This file is NOT an archive 😐
-If you believe it's an error, send the file to **@EDM115**
+If you believe it's an error, send the file to **@Mahsoom_Bot**
     """
 
     PROCESSING2 = "`Processing… ⏳`"
@@ -538,7 +533,7 @@ If you believe it's an error, send the file to **@EDM115**
 
     ERR_DL = "Error on download : {}"
 
-    CANT_DL_URL = "**Sorry, I can't download that URL 😭 Try to @transload it**"
+    CANT_DL_URL = "**Sorry, I can't download that URL 😭 Try to transload it**"
 
     GIVE_ARCHIVE = "Give me an archive to extract 😐"
 
@@ -557,7 +552,7 @@ Use the **/merge** command
     QUERY_PARSE_ERR = """
 Fatal query parsing error 💀
 
-Please contact @EDM115_chat with details and screenshots
+Please contact @Mahsoom_Bot with details and screenshots
     """
 
     GIVE_NEW_NAME = """
@@ -575,7 +570,7 @@ Please send the new file name (**--INCLUDE THE FILE EXTENTION !--**)
     UPLOADED = """
 **Successfully uploaded ✅**
 
-**Join @EDM115bots ❤️**
+**Join @Call_me_futurepilot ❤️**
     """
 
     NO_FILE_LEFT = "There's no file left to upload"
@@ -685,12 +680,12 @@ It failed 😣 Retry
 If it fails again, it means that {} haven't started the bot yet (or deleted the chat), or he's private/banned/whatever
     """
 
-    REPORT_REPLY = "Reply to a message to report it to @EDM115"
+    REPORT_REPLY = "Reply to a message to report it to @Mahsoom_Bot"
 
     REPORT_DONE = """
 Report sucessfully sent ! An answer will arrive soon
 
-Note : if you need to reply to replies, always use that /report command (or join **@EDM115_chat**)
+Note : if you need to reply to replies, always use that /report command (or join **@Call_me_futurepilot**)
     """
 
     BAN_ID = "Give an user id to ban 😈"
@@ -1055,7 +1050,7 @@ class Buttons:
     RATE_ME = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(Messages.RATE, url="https://t.me/BotsArchive/2705"),
+                InlineKeyboardButton(Messages.RATE, url="https://t.me/Call_me_futurepilot"),
                 InlineKeyboardButton(Messages.DONATE, callback_data="donatecallback")
             ],
         ]
