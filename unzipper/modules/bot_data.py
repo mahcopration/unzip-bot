@@ -824,7 +824,7 @@ Here's all the commands that only the owner (you) can use :
 **/self** : Get full info about me (info returned by Pyrogram)
 **/redbutton** : Will fully restart bot + server
 **/cleanall** : Same as `/clean`, but for the whole server
-**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@EDM115** if you don't understand them/need help
+**/logs** : Send you the logs (all of them). Useful for bug tracking. Send them to **@Mahsoom_Bot** if you don't understand them/need help
 **/restart** : Does a basic restart, less intrusive as the `/redbutton` one
 **/dbexport** : Exports the whole database as CSV
 **/admincmd** : This message
