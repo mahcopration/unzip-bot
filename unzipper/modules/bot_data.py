@@ -246,7 +246,7 @@ Use **/merge** to start one
     ACTUAL_THUMB = "Your actual thumbnail"
 
     START_TEXT = """
-Hi **{}** 👋, I'm **Unarchiver bot** 🥰
+Hi **{}** 👋, I'm **MAH UNZIP BOT** 🥰
 
 
 I can extract archives like `zip`, `rar`, `tar`, …
